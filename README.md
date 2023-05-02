@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![my scrnshot of this challnge](qr code scnner challenge scrnshot.png)
+[my scrnshot of this challnge](qr code scnner challenge scrnshot.png)
 
 ### Links
 
